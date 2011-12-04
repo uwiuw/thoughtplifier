@@ -1,0 +1,2 @@
+Issue file:
+berisi bug-bug waktu pengetesan dan semacamnya
